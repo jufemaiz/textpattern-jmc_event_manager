@@ -1,0 +1,4 @@
+jmc_event_manager
+=================
+The jmc_event_manager is a plugin/hack for textpattern created to allow users to create events at various venues. It has been done so completely by &#8216;ju:femaiz @ http://euphemize.net. Any comments or suggestions would be appreciated and the support thread at http://forum.textpattern.com is available at http://forum.textpattern.com/viewtopic.php?id=11137. While this help file has attempted to be as thorough as possible, things do fall through the cracks. Since jmc_event_manager is (still) in a beta stage, there may exist some bugs in the operation. Additionally, the plugin/hack is an ongoing project and may be updated from time to time. To ensure that you have the most up to date version, please ensure you visit the support forum thread regularly.
+jmc_event_manager is distributed under the GNU General Public License. For more information please visit GNU General Public License (http://www.gnu.org/copyleft/gpl.html).
